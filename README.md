@@ -2,7 +2,7 @@
 ReactJs Webpack4 Starter kit
 
 ## Demo Link :
-https://github.com/elangovanshanthi/react-webpack4-starter-kit
+https://elangovanshanthi.github.io/react-webpack4-starter-kit/
 
 ## Installation Steps
 `` npm i react-webpack4-starter-kit ``
